@@ -1,0 +1,4 @@
+__pycache__/
+venv/
+data/
+chroma_db/
