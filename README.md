@@ -20,7 +20,7 @@ The project is modularly structured to separate the core engineering logic from 
 * **LLM Engine:** [Ollama](https://ollama.com/) running **Llama 3** (Fully local inference)
 * **Vector Database:** [ChromaDB](https://www.trychroma.com/) (Metadata-filtered vector storage)
 * **Dense Embeddings:** **BGE Embeddings** (`BAAI/bge-large-en-v1.5`)
-* **Neural Reranking:** **BGE Cross-Encoder** (`BAAI/bge-reranker-large`)
+* **Neural Reranking:** **Cross-Encoder** (`ms-marco-MiniLM-L-6-v2`)
 * **Web Framework:** [Streamlit](https://streamlit.io/)
 
 ---
